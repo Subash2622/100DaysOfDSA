@@ -33,7 +33,7 @@ Welcome to my 100-day challenge, where I commit to solving at least one DSA (Dat
 ## 📈 Progress Tracker  
 | Day | Problem Name           | Difficulty | Status |  
 |-----|------------------------|------------|--------|  
-| 1   | [Two Sum](#)           | Easy       | ✅ |  
+| 1   | [palindrome-number](https://leetcode.com/problems/palindrome-number/submissions/1493755703/)           | Easy       | ✅ |  
 | 2   | [Reverse Linked List](#) | Medium    | ✅ |  
 | 3   | [Binary Search](#)     | Easy       | ✅ |  
 | ... | ...                    | ...        | ...    |  
