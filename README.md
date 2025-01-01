@@ -9,14 +9,3 @@ Welcome to my 100-day challenge, where I commit to solving at least one DSA (Dat
 
 ## 📅 Daily Progress  
 Each day's solutions will be added under a specific folder named as the corresponding day (`Day1`, `Day2`, etc.).  
-
-### Repository Structure  
-```plaintext
-📦 100DaysOfDSA  
-├── Day1/  
-│   ├── ProblemName_Solution.java  
-│   └── README.md  
-├── Day2/  
-│   ├── ProblemName_Solution.java  
-│   └── README.md  
-└── ...  
