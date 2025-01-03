@@ -26,7 +26,7 @@ Welcome to my 100-day challenge, where I commit to solving at least one DSA (Dat
 
 ## 🔗 Useful Links  
 - [My LeetCode Profile](https://leetcode.com/u/subash9938sahoo/)  
-- [GitHub Repository](#)  
+- [GitHub Repository](https://github.com/Subash2622/100DaysOfDSA)  
 
 ---
 
@@ -34,9 +34,12 @@ Welcome to my 100-day challenge, where I commit to solving at least one DSA (Dat
 | Day | Problem Name           | Difficulty | Status |  
 |-----|------------------------|------------|--------|  
 | 1   | [palindrome-number](https://leetcode.com/problems/palindrome-number/submissions/1493755703/)           | Easy       | ✅ |  
-| 2   | [Reverse Linked List](#) | Medium    | ✅ |  
-| 3   | [Binary Search](#)     | Easy       | ✅ |  
-| ... | ...                    | ...        | ...    |  
+| 2   | [power-of-two](https://leetcode.com/problems/power-of-two/) | Easy    | ✅ |  
+| 3   | [Binary Search](#)     | Easy       | ❌ |  
+| ... | ...                    | ...        | ...    | 
+| ... | ...                    | ...        | ...    |
+| ... | ...                    | ...        | ...    |
+| ... | ...                    | ...        | ...    |
 
 ---
 
