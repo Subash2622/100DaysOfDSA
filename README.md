@@ -40,6 +40,7 @@ Welcome to my 100-day challenge, where I commit to solving at least one DSA (Dat
 | ... | ...                    | ...        | ...    |
 | ... | ...                    | ...        | ...    |
 | ... | ...                    | ...        | ...    |
+| ... | ...                    | ...        | ...    |
 
 ---
 
