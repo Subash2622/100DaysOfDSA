@@ -36,7 +36,7 @@ Welcome to my 100-day challenge, where I commit to solving at least one DSA (Dat
 | 1   | [palindrome-number](https://leetcode.com/problems/palindrome-number/submissions/1493755703/)           | Easy       | ✅ |  
 | 2   | [power-of-two](https://leetcode.com/problems/power-of-two/) | Easy    | ✅ |  
 | 3   | [water-bottles](https://leetcode.com/problems/water-bottles/)     | Easy       | ✅ |  
-| 4   | [fibonacci-number](https://leetcode.com/problems/fibonacci-number/) | Easy        | ❌ |  
+| 4   | [fibonacci-number](https://leetcode.com/problems/fibonacci-number/submissions/1496886388/) | Easy        | ✅ |  
 | 5   | [tribonacci-number](https://leetcode.com/problems/tribonacci-number/) | Easy        | ❌ |  
 | 6   | [two-sum](https://leetcode.com/problems/two-sum/) | Easy        | ❌ |  
 | 7   | [add-to-array-form-of-integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | Easy        | ❌ |  
