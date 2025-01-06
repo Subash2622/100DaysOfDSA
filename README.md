@@ -38,7 +38,7 @@ Welcome to my 100-day challenge, where I commit to solving at least one DSA (Dat
 | 3   | [water-bottles](https://leetcode.com/problems/water-bottles/submissions/1495729391/)     | Easy       | ✅ |  
 | 4   | [fibonacci-number](https://leetcode.com/problems/fibonacci-number/submissions/1496886388/) | Easy        | ✅ |  
 | 5   | [tribonacci-number](https://leetcode.com/problems/n-th-tribonacci-number/submissions/1498052988/) | Easy        | ✅ |  
-| 6   | [two-sum](https://leetcode.com/problems/two-sum/) | Easy        | ❌ |  
+| 6   | [two-sum](https://leetcode.com/problems/two-sum/submissions/1499113842/) | Easy        | ✅ |  
 | 7   | [add-to-array-form-of-integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | Easy        | ❌ |  
 | 8   | [maximum-product-of-two-elements-in-an-array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | Easy        | ❌ |  
 | 9   | [median-of-two-sorted-arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard        | ❌ |  
