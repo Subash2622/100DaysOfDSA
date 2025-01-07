@@ -1,0 +1,39 @@
+class Solution {
+    public List<Integer> addToArrayForm(int[] num, int k) {
+        int n = 0,carry=0,i;
+        List<Integer> ans = new ArrayList<>();
+        
+        for(i=num.length-1;i>=0 && k!=0;i--){
+            int temp=num[i]+(k%10)+carry;
+            k=k/10;
+            carry=temp/10;
+            ans.add(temp%10);
+        }
+        if(i==-1){
+            while(k != 0){
+                int temp=(k%10)+carry;
+                k=k/10;
+                carry=temp/10;
+                ans.add(temp%10);
+            }
+            if(carry != 0){
+                ans.add(carry);
+            }
+            Collections.reverse(ans);
+            return ans;
+        }
+        
+        for(int j=i;j>=0;j--){
+            int temp=num[j]+carry;
+            carry=temp/10;
+            ans.add(temp%10);
+        }
+        
+        if(carry != 0){
+            ans.add(carry);
+        }
+
+        Collections.reverse(ans);
+        return ans;
+    }
+}
