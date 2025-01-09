@@ -41,8 +41,8 @@ Welcome to my 100-day challenge, where I commit to solving at least one DSA (Dat
 | 6   | [two-sum](https://leetcode.com/problems/two-sum/submissions/1499113842/) | Easy        | ✅ |  
 | 7   | [add-to-array-form-of-integer](https://leetcode.com/problems/add-to-array-form-of-integer/submissions/1500428693/) | Easy        | ✅ |  
 | 8   | [maximum-product-of-two-elements-in-an-array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/submissions/1501367312/) | Easy        | ✅ |  
-| 9   | [median-of-two-sorted-arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard        | ❌ |  
-| 10  | [missing-number](https://leetcode.com/problems/missing-number/) | Easy        | ❌ |  
+| 9  | [missing-number](https://leetcode.com/problems/missing-number/submissions/1502427670/?envType=problem-list-v2&envId=ey7ia4jv) | Easy        | ✅ | 
+| 10   | [median-of-two-sorted-arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard        | ❌ |   
 | 11  | [remove-element](https://leetcode.com/problems/remove-element/) | Easy        | ❌ |  
 | 12  | [squares-of-a-sorted-array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy        | ❌ |  
 | 13  | [two-sum-ii-input-array-is-sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium        | ❌ |  
