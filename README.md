@@ -43,7 +43,7 @@ Welcome to my 100-day challenge, where I commit to solving at least one DSA (Dat
 | 8   | [maximum-product-of-two-elements-in-an-array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/submissions/1501367312/) | Easy        | ✅ |  
 | 9  | [missing-number](https://leetcode.com/problems/missing-number/submissions/1502427670/?envType=problem-list-v2&envId=ey7ia4jv) | Easy        | ✅ | 
 | 10   | [median-of-two-sorted-arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/1503875154/) | Hard        | ✅ |   
-| 11  | [remove-element](https://leetcode.com/problems/remove-element/) | Easy        | ❌ |  
+| 11  | [remove-element](https://leetcode.com/problems/remove-element/submissions/1504779001/) | Easy        | ✅ |  
 | 12  | [squares-of-a-sorted-array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy        | ❌ |  
 | 13  | [two-sum-ii-input-array-is-sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium        | ❌ |  
 | 14  | [product-of-array-except-self](https://leetcode.com/problems/product-of-array-except-self/) | Medium        | ❌ |  
