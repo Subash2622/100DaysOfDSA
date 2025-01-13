@@ -45,7 +45,7 @@ Welcome to my 100-day challenge, where I commit to solving at least one DSA (Dat
 | 10   | [median-of-two-sorted-arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/1503875154/) | Hard        | ✅ |   
 | 11  | [remove-element](https://leetcode.com/problems/remove-element/submissions/1504779001/) | Easy        | ✅ |  
 | 12  | [squares-of-a-sorted-array](https://leetcode.com/problems/squares-of-a-sorted-array/submissions/1506091290/) | Easy        | ✅ |  
-| 13  | [two-sum-ii-input-array-is-sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium        | ❌ |  
+| 13  | [two-sum-ii-input-array-is-sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/1506902197/) | Medium        | ✅ |  
 | 14  | [product-of-array-except-self](https://leetcode.com/problems/product-of-array-except-self/) | Medium        | ❌ |  
 | 15  | [bulb-switcher](https://leetcode.com/problems/bulb-switcher/) | Medium        | ❌ |  
 | 16  | [largest-number-at-least-twice-of-others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | Easy        | ❌ |  
