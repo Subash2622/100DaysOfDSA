@@ -47,7 +47,7 @@ Welcome to my 100-day challenge, where I commit to solving at least one DSA (Dat
 | 12  | [squares-of-a-sorted-array](https://leetcode.com/problems/squares-of-a-sorted-array/submissions/1506091290/) | Easy        | ✅ |  
 | 13  | [two-sum-ii-input-array-is-sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/1506902197/) | Medium        | ✅ |  
 | 14  | [product-of-array-except-self](https://leetcode.com/problems/product-of-array-except-self/submissions/1508302761/) | Medium        | ✅ |  
-| 15  | [bulb-switcher](https://leetcode.com/problems/bulb-switcher/) | Medium        | ❌ |  
+| 15  | [search-insert-position](https://leetcode.com/problems/search-insert-position/submissions/1509076018/) | Easy        | ✅ |  
 | 16  | [largest-number-at-least-twice-of-others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | Easy        | ❌ |  
 | 17  | [container-with-most-water](https://leetcode.com/problems/container-with-most-water/) | Medium        | ❌ |  
 | 18  | [increasing-triplet-subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | Medium        | ❌ |  
