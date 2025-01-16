@@ -48,7 +48,7 @@ Welcome to my 100-day challenge, where I commit to solving at least one DSA (Dat
 | 13  | [two-sum-ii-input-array-is-sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/1506902197/) | Medium        | ✅ |  
 | 14  | [product-of-array-except-self](https://leetcode.com/problems/product-of-array-except-self/submissions/1508302761/) | Medium        | ✅ |  
 | 15  | [search-insert-position](https://leetcode.com/problems/search-insert-position/submissions/1509076018/) | Easy        | ✅ |  
-| 16  | [largest-number-at-least-twice-of-others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | Easy        | ❌ |  
+| 16  | [remove-duplicates-from-sorted-array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/1510731479/) | Easy        | ✅ |  
 | 17  | [container-with-most-water](https://leetcode.com/problems/container-with-most-water/) | Medium        | ❌ |  
 | 18  | [increasing-triplet-subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | Medium        | ❌ |  
 | 19  | [maximum-ascending-subarray-sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/) | Easy        | ❌ |  
