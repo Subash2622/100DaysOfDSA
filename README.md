@@ -50,7 +50,7 @@ Welcome to my 100-day challenge, where I commit to solving at least one DSA (Dat
 | 15  | [search-insert-position](https://leetcode.com/problems/search-insert-position/submissions/1509076018/) | Easy        | ✅ |  
 | 16  | [remove-duplicates-from-sorted-array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/1510731479/) | Easy        | ✅ |  
 | 17  | [plus-one](https://leetcode.com/problems/plus-one/submissions/1511552441/) | Easy        | ✅ |  
-| 18  | [increasing-triplet-subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | Medium        | ❌ |  
+| 18  | [merge-sorted-array](https://leetcode.com/problems/merge-sorted-array/submissions/1512815768/) | Easy        | ✅ |  
 | 19  | [maximum-ascending-subarray-sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/) | Easy        | ❌ |  
 | 20  | [find-lucky-integer-in-an-array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) | Easy        | ❌ |  
 | 21  | [valid-sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium        | ❌ |  
