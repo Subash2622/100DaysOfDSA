@@ -52,7 +52,7 @@ Welcome to my 100-day challenge, where I commit to solving at least one DSA (Dat
 | 17  | [plus-one](https://leetcode.com/problems/plus-one/submissions/1511552441/) | Easy        | ✅ |  
 | 18  | [merge-sorted-array](https://leetcode.com/problems/merge-sorted-array/submissions/1512815768/) | Easy        | ✅ |  
 | 19  | [merge-sorted-array](https://leetcode.com/problems/merge-sorted-array/submissions/1513783504/) | Easy        | ✅ |  
-| 20  | [find-lucky-integer-in-an-array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) | Easy        | ❌ |  
+| 20  | [single-number](https://leetcode.com/problems/single-number/submissions/1514347465/) | Easy        | ✅ |  
 | 21  | [valid-sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium        | ❌ |  
 | 22  | [rotate-array](https://leetcode.com/problems/rotate-array/) | Medium        | ❌ |  
 | 23  | [longest-palindrome](https://leetcode.com/problems/longest-palindrome/) | Easy        | ❌ |  
