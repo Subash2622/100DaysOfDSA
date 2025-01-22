@@ -54,7 +54,7 @@ Welcome to my 100-day challenge, where I commit to solving at least one DSA (Dat
 | 19  | [merge-sorted-array](https://leetcode.com/problems/merge-sorted-array/submissions/1513783504/) | Easy        | ✅ |  
 | 20  | [single-number](https://leetcode.com/problems/single-number/submissions/1514347465/) | Easy        | ✅ |  
 | 21  | [majority-element](https://leetcode.com/problems/majority-element/submissions/1515385354/) | Easy        | ✅ |  
-| 22  | [rotate-array](https://leetcode.com/problems/rotate-array/) | Medium        | ❌ |  
+| 22  | [contains-duplicate](https://leetcode.com/problems/contains-duplicate/submissions/1517055207/) | Easy        | ✅ |  
 | 23  | [longest-palindrome](https://leetcode.com/problems/longest-palindrome/) | Easy        | ❌ |  
 | 24  | [binary-tree-inorder-traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy        | ❌ |  
 | 25  | [search-a-2d-matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Medium        | ❌ |  
