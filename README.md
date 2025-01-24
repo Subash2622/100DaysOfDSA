@@ -56,7 +56,7 @@ Welcome to my 100-day challenge, where I commit to solving at least one DSA (Dat
 | 21  | [majority-element](https://leetcode.com/problems/majority-element/submissions/1515385354/) | Easy        | ✅ |  
 | 22  | [contains-duplicate](https://leetcode.com/problems/contains-duplicate/submissions/1517055207/) | Easy        | ✅ |  
 | 23  | [contains-duplicate-ii](https://leetcode.com/problems/contains-duplicate-ii/submissions/1518267518/) | Easy        | ✅ |  
-| 24  | [binary-tree-inorder-traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy        | ❌ |  
+| 24  | [summary-ranges](https://leetcode.com/problems/summary-ranges/submissions/1519316929/) | Easy        | ✅ |  
 | 25  | [search-a-2d-matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Medium        | ❌ |  
 | 26  | [climbing-stairs](https://leetcode.com/problems/climbing-stairs/) | Easy        | ❌ |  
 | 27  | [house-robber](https://leetcode.com/problems/house-robber/) | Medium        | ❌ |  
