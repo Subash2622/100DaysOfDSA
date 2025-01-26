@@ -58,7 +58,7 @@ Welcome to my 100-day challenge, where I commit to solving at least one DSA (Dat
 | 23  | [contains-duplicate-ii](https://leetcode.com/problems/contains-duplicate-ii/submissions/1518267518/) | Easy        | ✅ |  
 | 24  | [summary-ranges](https://leetcode.com/problems/summary-ranges/submissions/1519316929/) | Easy        | ✅ |  
 | 25  | [best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/1519679757/) | Easy        | ✅ |  
-| 26  | [climbing-stairs](https://leetcode.com/problems/climbing-stairs/) | Easy        | ❌ |  
+| 26  | [move-zeroes](https://leetcode.com/problems/move-zeroes/submissions/1520799470/) | Easy        | ✅ |  
 | 27  | [house-robber](https://leetcode.com/problems/house-robber/) | Medium        | ❌ |  
 | 28  | [kth-largest-element-in-an-array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium        | ❌ |  
 | 29  | [maximum-subarray](https://leetcode.com/problems/maximum-subarray/) | Medium        | ❌ |  
