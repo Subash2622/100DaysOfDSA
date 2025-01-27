@@ -61,6 +61,7 @@ Welcome to my 100-day challenge, where I commit to solving at least one DSA (Dat
 | 26  | [move-zeroes](https://leetcode.com/problems/move-zeroes/submissions/1520799470/) | Easy        | ✅ |  
 | 26  | [determine-if-two-events-have-conflict](https://leetcode.com/problems/https://leetcode.com/problems/determine-if-two-events-have-conflict/submissions/1521291675/) | Easy        | ✅ |  
 | 27  | [intersection-of-two-arrays](https://leetcode.com/problems/intersection-of-two-arrays/submissions/1521751238/) | Easy        | ✅ |  
+| 27  | [number-of-valid-clock-times](https://leetcode.com/problems/number-of-valid-clock-times/submissions/1521862945/) | Easy        | ✅ |  
 | 28  | [kth-largest-element-in-an-array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium        | ❌ |  
 | 29  | [maximum-subarray](https://leetcode.com/problems/maximum-subarray/) | Medium        | ❌ |  
 | 30  | [merge-intervals](https://leetcode.com/problems/merge-intervals/) | Medium        | ❌ |  
