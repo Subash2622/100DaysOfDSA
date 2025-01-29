@@ -1,19 +1,53 @@
+// class Solution {
+//     public int thirdMax(int[] nums) {
+//         HashSet <Integer> set = new HashSet <>();
+//         for(int i : nums){
+//             set.add(i);
+//         }
+
+//         int [] arr = new int [set.size()];
+//         int k = 0;
+//         for(int i : set){
+//             arr[k] = i;
+//             k++;
+//         }
+//         Arrays.sort(arr);
+//         if(arr.length<3)
+//             return arr[arr.length-1];
+//         return arr[arr.length-3];
+//     }
+// }
+
+//Tryed Without Sorting
 class Solution {
     public int thirdMax(int[] nums) {
-        HashSet <Integer> set = new HashSet <>();
-        for(int i : nums){
-            set.add(i);
+        HashSet<Integer> set = new HashSet<>();
+        for (int num : nums) {
+            set.add(num);
         }
 
-        int [] arr = new int [set.size()];
-        int k = 0;
-        for(int i : set){
-            arr[k] = i;
-            k++;
+        Integer m1 = null, m2 = null, m3 = null;
+        // m1 = Maximum number 1
+        // m2 = Maximum number 2
+        // m3 = Maximum number 3
+        for (int num : set) {
+            if (m1 == null || num > m1) {
+                m3 = m2;
+                m2 = m1;
+                m1 = num;
+            } else if (m2 == null || num > m2) {
+                m3 = m2;
+                m2 = num;
+            } else if (m3 == null || num > m3) {
+                m3 = num;
+            }
         }
-        Arrays.sort(arr);
-        if(arr.length<3)
-            return arr[arr.length-1];
-        return arr[arr.length-3];
+
+        if (m3 != null) {
+            return m3;
+        } else {
+            return m1;
+        }
+
     }
 }

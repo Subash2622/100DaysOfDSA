@@ -62,7 +62,7 @@ Welcome to my 100-day challenge, where I commit to solving at least one DSA (Dat
 | 26  | [determine-if-two-events-have-conflict](https://leetcode.com/problems/https://leetcode.com/problems/determine-if-two-events-have-conflict/submissions/1521291675/) | Easy        | ✅ |  
 | 27  | [intersection-of-two-arrays](https://leetcode.com/problems/intersection-of-two-arrays/submissions/1521751238/) | Easy        | ✅ |  
 | 27  | [number-of-valid-clock-times](https://leetcode.com/problems/number-of-valid-clock-times/submissions/1521862945/) | Easy        | ✅ |  
-| 28  | [third-maximum-number](https://leetcode.com/problems/third-maximum-number/submissions/1522965618/) | Easy        | ✅ |  
+| 28  | [third-maximum-number](https://leetcode.com/problems/third-maximum-number/submissions/1523953823/) | Easy        | ✅ |  
 | 29  | [maximum-subarray](https://leetcode.com/problems/maximum-subarray/) | Medium        | ❌ |  
 | 30  | [merge-intervals](https://leetcode.com/problems/merge-intervals/) | Medium        | ❌ |  
 | 31  | [reverse-linked-list](https://leetcode.com/problems/reverse-linked-list/) | Easy        | ❌ |  
