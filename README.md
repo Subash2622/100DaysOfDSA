@@ -65,7 +65,7 @@ Welcome to my 100-day challenge, where I commit to solving at least one DSA (Dat
 | 28  | [third-maximum-number](https://leetcode.com/problems/third-maximum-number/submissions/1523953823/) | Easy        | ✅ |  
 | 29  | [find-all-numbers-disappeared-in-an-array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/submissions/1523997314/) | Easy        | ✅ |  
 | 29  | [minimum-recolors-to-get-k-consecutive-black-blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/submissions/1524100703/) | Easy        | ✅ |  
-| 30  | [merge-intervals](https://leetcode.com/problems/merge-intervals/) | Medium        | ❌ |  
+| 30  | [max-consecutive-ones](https://leetcode.com/problems/max-consecutive-ones/submissions/1525023736/) | Easy        | ✅ |  
 | 31  | [reverse-linked-list](https://leetcode.com/problems/reverse-linked-list/) | Easy        | ❌ |  
 | 32  | [linked-list-cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy        | ❌ |  
 | 33  | [binary-search](https://leetcode.com/problems/binary-search/) | Easy        | ❌ |  
