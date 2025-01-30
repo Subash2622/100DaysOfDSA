@@ -1,0 +1,22 @@
+class Solution {
+    public char repeatedCharacter(String s) {
+        
+        int[] freq = new int[26];
+
+        for (int i = 0; i < s.length(); i++) {
+           
+            int index = s.charAt(i) - 'a';
+
+            // Check if the character is already counted
+            if (freq[index] > 0) {
+                return s.charAt(i);
+            }
+
+          
+            freq[index]++;
+        }
+
+      
+        return '0';
+    }
+}
