@@ -67,7 +67,7 @@ Welcome to my 100-day challenge, where I commit to solving at least one DSA (Dat
 | 29  | [minimum-recolors-to-get-k-consecutive-black-blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/submissions/1524100703/) | Easy        | ✅ |  
 | 30  | [max-consecutive-ones](https://leetcode.com/problems/max-consecutive-ones/submissions/1525023736/) | Easy        | ✅ |  
 | 30  | [first-letter-to-appear-twice](https://leetcode.com/problems/first-letter-to-appear-twice/submissions/1525069811/) | Easy        | ✅ |  
-| 31  | [reverse-linked-list](https://leetcode.com/problems/reverse-linked-list/) | Easy        | ❌ |  
+| 31  | [count-partitions-with-even-sum-difference](https://leetcode.com/problems/count-partitions-with-even-sum-difference/submissions/detail/1526472303/) | Easy        | ✅ |  
 | 32  | [linked-list-cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy        | ❌ |  
 | 33  | [binary-search](https://leetcode.com/problems/binary-search/) | Easy        | ❌ |  
 | 34  | [unique-paths](https://leetcode.com/problems/unique-paths/) | Medium        | ❌ |  
