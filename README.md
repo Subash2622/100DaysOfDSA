@@ -68,7 +68,7 @@ Welcome to my 100-day challenge, where I commit to solving at least one DSA (Dat
 | 30  | [max-consecutive-ones](https://leetcode.com/problems/max-consecutive-ones/submissions/1525023736/) | Easy        | ✅ |  
 | 30  | [first-letter-to-appear-twice](https://leetcode.com/problems/first-letter-to-appear-twice/submissions/1525069811/) | Easy        | ✅ |  
 | 31  | [count-partitions-with-even-sum-difference](https://leetcode.com/problems/count-partitions-with-even-sum-difference/submissions/detail/1526472303/) | Easy        | ✅ |  
-| 32  | [linked-list-cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy        | ❌ |  
+| 32  | [relative-ranks](https://leetcode.com/problems/relative-ranks/submissions/1527093313/) | Easy        | ✅ |  
 | 33  | [binary-search](https://leetcode.com/problems/binary-search/) | Easy        | ❌ |  
 | 34  | [unique-paths](https://leetcode.com/problems/unique-paths/) | Medium        | ❌ |  
 | 35  | [minimum-path-sum](https://leetcode.com/problems/minimum-path-sum/) | Medium        | ❌ |  
