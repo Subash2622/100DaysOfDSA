@@ -69,7 +69,7 @@ Welcome to my 100-day challenge, where I commit to solving at least one DSA (Dat
 | 30  | [first-letter-to-appear-twice](https://leetcode.com/problems/first-letter-to-appear-twice/submissions/1525069811/) | Easy        | ✅ |  
 | 31  | [count-partitions-with-even-sum-difference](https://leetcode.com/problems/count-partitions-with-even-sum-difference/submissions/detail/1526472303/) | Easy        | ✅ |  
 | 32  | [relative-ranks](https://leetcode.com/problems/relative-ranks/submissions/1527093313/) | Easy        | ✅ |  
-| 33  | [binary-search](https://leetcode.com/problems/binary-search/) | Easy        | ❌ |  
+| 33  | [find-valid-pair-of-adjacent-digits-in-string](https://leetcode.com/problems/find-valid-pair-of-adjacent-digits-in-string/submissions/1528651082/) | Easy        | ✅ |  
 | 34  | [unique-paths](https://leetcode.com/problems/unique-paths/) | Medium        | ❌ |  
 | 35  | [minimum-path-sum](https://leetcode.com/problems/minimum-path-sum/) | Medium        | ❌ |  
 | 36  | [decode-ways](https://leetcode.com/problems/decode-ways/) | Medium        | ❌ |  
