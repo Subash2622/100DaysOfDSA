@@ -71,8 +71,8 @@ Welcome to my 100-day challenge, where I commit to solving at least one DSA (Dat
 | 32  | [relative-ranks](https://leetcode.com/problems/relative-ranks/submissions/1527093313/) | Easy        | ✅ |  
 | 33  | [find-valid-pair-of-adjacent-digits-in-string](https://leetcode.com/problems/find-valid-pair-of-adjacent-digits-in-string/submissions/1528651082/) | Easy        | ✅ |  
 | 34  | [sum-of-digits-of-string-after-convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/submissions/1529494871/) | Easy        | ✅ |  
-| 35  | [minimum-path-sum](https://leetcode.com/problems/minimum-path-sum/) | Medium        | ❌ |  
-| 36  | [decode-ways](https://leetcode.com/problems/decode-ways/) | Medium        | ❌ |  
+| 35  | [find-pivot-index](https://leetcode.com/problems/find-pivot-index/submissions/1530653772/) | Easy        | ✅ |  
+| 36  | [greatest-english-letter-in-upper-and-lower-case](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/submissions/1531924033/) | Easy        | ✅ |  
 | 37  | [word-break](https://leetcode.com/problems/word-break/) | Medium        | ❌ |  
 | 38  | [best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy        | ❌ |  
 | 39  | [combination-sum](https://leetcode.com/problems/combination-sum/) | Medium        | ❌ |  
